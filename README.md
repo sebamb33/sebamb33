@@ -1,11 +1,11 @@
 # SebAmb33
 Bonjour tout le monde, 
 
-Je suis développeur web fullstack junior.
+Je suis développeur web ullstack junior.
 
 ## Présentation
 
-Passioné par le monde du développement web et les nouvelles technologies depuis plusieurs années, j'adore apprendre des nouvelles choses sur les évolutions de ce domaine
+Passionné par le monde du développement web et les nouvelles technologies depuis plusieurs années, j'adore apprendre des nouvelles choses sur les évolutions de ce domaine
 
 - 📖 Licence Dawin université de Bordeaux
 - ⏱️🖥️ Approfondis les connaissances en Node
