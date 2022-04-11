@@ -1,7 +1,7 @@
 # SebAmb33
 Bonjour tout le monde, 
 
-Je suis développeur web ullstack junior.
+Je suis développeur web fullstack junior.
 
 ## Présentation
 
