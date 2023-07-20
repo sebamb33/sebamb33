@@ -7,7 +7,7 @@ Je suis développeur web fullstack junior.
 
 Passionné par le monde du développement web et les nouvelles technologies depuis plusieurs années, j'adore apprendre des nouvelles choses sur les évolutions de ce domaine
 
-- 📖 Licence Dawin université de Bordeaux
+- 📖 Master Ynov developpement web 
 - ⏱️🖥️ Approfondis les connaissances en Node
 - ⚡ Sport, Lecture, Musique
 - 📫 ambona.sebastien@protonmail.com
