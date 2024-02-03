@@ -10,7 +10,7 @@ Passionné par le monde du développement web et les nouvelles technologies depu
 - 📖 Master Ynov developpement web 
 - ⏱️🖥️ Approfondis les connaissances en Node
 - ⚡ Sport, Lecture, Musique
-- 📫 ambona.sebastien@protonmail.com
+- 📫 sebastienambona@pm.me
 
 ## Langages et technologies :  
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
