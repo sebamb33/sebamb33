@@ -42,4 +42,4 @@ Toujours en veille, toujours en quête de nouveaux défis, **l’aventure contin
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=sebamb33&icon=0&color=6)](https://visitcount.itsvg.in)
+
