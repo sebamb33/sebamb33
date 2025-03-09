@@ -1,8 +1,6 @@
-<div align="center">
-  <img src="https://github.com/sebamb33.png" width="150" alt="Profil GitHub de sebamb33" style="border-radius: 50%;" />
-</div>
 
-# 💫 About Me:
+
+# 💫 A propos:
 Passionné par la tech et les **technologies web modernes**, j’adore explorer, apprendre et **construire des projets innovants**. 💡  
 Full-stack developer, je jongle entre **back-end robuste** et **front-end dynamique** pour créer des expériences performantes. ⚡  
 Toujours en veille, toujours en quête de nouveaux défis, **l’aventure continue** ! 🚀👨‍💻  
