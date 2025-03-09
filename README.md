@@ -37,7 +37,7 @@ Toujours en veille, toujours en quête de nouveaux défis, **l’aventure contin
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sebamb33&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=sebamb33&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sebamb33&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-  [![GitHub Contributions](https://github.com/users/sebamb33/contributions)](https://github.com/sebamb33)
+
 </div>
 
 ---
